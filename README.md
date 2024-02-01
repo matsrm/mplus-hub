@@ -14,6 +14,3 @@ app that allows your m+ team to sign up and create your own space where you can 
 	- Simplistic armory integration showing class, spec, role - possibly ilvl, possibly r.io data.
 - Personal r.io leaderboard between friends for fun friendly competition
 - Possibly global leaderboard ranking each team registered on the site by average r.io of the 5 highest r.io players. - could be abused?
-
-
-ff
