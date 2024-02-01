@@ -3,15 +3,16 @@ const { platform, username } = Astro.props;
 ---
 
 <div class="social-icons">
-    <a href={`https://www.${platform}.com/${username}`} target="_blank" title={platform}>
-        <i class="fa-brands fa-github"></i>
+    <a href={`https://www.${platform}.com/${username}`} style ="text-decoration: none" target="_blank" title={platform}>
+        <i class={`fa-brands fa-${platform}`}></i>
     </a>
 </div>
 
 <style>
     a {
         display: flex;
-        padding: 0.5rem 1rem;
+        color: black;
+        padding: 0.5rem 0.1rem;
         text-decoration: none;
     }
 
