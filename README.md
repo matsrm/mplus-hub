@@ -1,6 +1,9 @@
 # mplus-hub
 ### What is M+ Team hub?
-M+ Team hub is an app where you and your m+ team can plan schedule play sessions, share routes and more. The app is currently in early stages of development. More to come.
+M+ Team hub is an app where you and your m+ team can plan schedule play sessions, share routes and more.
+The motivation for creating the app stemmed from increasing difficulty of scheduling pushing sessions with schedules overlapping. Every solution we found felt clunky, syncing personal calendars? I don't want the people I am pushing keys with to see what I have on my calendar. Spreadsheets? Clunky and time-inefficient. The solution? M+ team hub. 
+
+The app is currently in early stages of development. More to come.
 
 #### **planned features**
 - [ ] Oauth signin with blizzard account
