@@ -9,7 +9,7 @@ The app is currently in early stages of development. More to come.
 - [ ] Oauth signin with blizzard account
 - [ ] calendar - schedule your playing sessions
 	- [ ] inspired by google calendar
-		- [ ]create and schedule a play session and invite people to join
+		- [ ] create and schedule a play session and invite people to join
 		- [ ] members can then say yes/no/maybe
 		- [ ] potential discord bot that seamlessly integrates with calendar to let users sign on and off on their preferred platform (discord or the site itself)
 - [ ] MDT routes - integrate mdt routes to allow sharing and storing mdt routes in a centralized environment.
